@@ -1,1 +1,1 @@
-# ffancy-slider
+# fancy-slider
